@@ -14,7 +14,7 @@ func main() {
 
 	//TIP <p>Press <shortcut actionId="ShowIntentionActions"/> when your caret is at the underlined text
 	// to see how GoLand suggests fixing the warning.</p><p>Alternatively, if available, click the lightbulb to view possible fixes.</p>
-	s := "gopher"
+	s := "gopher poo"
 	fmt.Printf("Hello and welcome, %s!\n", s)
 
 	for i := 1; i <= 5; i++ {
